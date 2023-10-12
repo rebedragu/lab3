@@ -1,0 +1,2 @@
+Produs{denumire='mere', pret=1.0, cantitate=12, dataExpirare=2022-05-08}
+Produs{denumire='ananas', pret=7.8, cantitate=5, dataExpirare=2023-04-05}
